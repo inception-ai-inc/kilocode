@@ -1,3 +1,4 @@
+// Modified by Inception AI, Inc., 2025-2026.
 import { safeWriteJson } from "../../utils/safeWriteJson"
 import * as path from "path"
 import * as os from "os"

@@ -1,3 +1,4 @@
+// Modified by Inception AI, Inc., 2025-2026.
 // npx vitest core/webview/__tests__/webviewMessageHandler.spec.ts
 
 import type { Mock } from "vitest"

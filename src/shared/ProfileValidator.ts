@@ -1,3 +1,4 @@
+// Modified by Inception AI, Inc., 2025-2026.
 import type { ProviderSettings, OrganizationAllowList } from "@roo-code/types"
 
 export class ProfileValidator {
