@@ -1,3 +1,4 @@
+// Modified by Inception AI, Inc., 2025-2026.
 // pnpm --filter roo-cline test core/webview/__tests__/ClineProvider.spec.ts
 
 import Anthropic from "@anthropic-ai/sdk"

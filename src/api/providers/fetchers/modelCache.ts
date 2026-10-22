@@ -1,3 +1,4 @@
+// Modified by Inception AI, Inc., 2025-2026.
 import * as path from "path"
 import fs from "fs/promises"
 import * as fsSync from "fs"

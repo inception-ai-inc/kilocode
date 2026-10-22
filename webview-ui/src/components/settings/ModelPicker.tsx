@@ -1,3 +1,4 @@
+// Modified by Inception AI, Inc., 2025-2026.
 import { useState, useCallback, useEffect, useRef, useMemo, Fragment } from "react" // kilocode_change Fragment, useMemo
 import { VSCodeLink } from "@vscode/webview-ui-toolkit/react"
 import { Trans } from "react-i18next"
